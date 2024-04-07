@@ -7,4 +7,4 @@ Welcome to the Solidity Basics repository! This repository contains basic Solidi
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/solidity-basics.git
+git clone https://github.com/rajuiit/Introduction-to-Solidity-Smart-Contract.git
